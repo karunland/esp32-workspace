@@ -1,0 +1,60 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "hello-world",
+			"path": "hello-world"
+		},
+		{
+			"name": "CPR-Device",
+			"path": "CPR-Device"
+		},
+		{
+			"name": "bluetooth-serial-debug-esp32",
+			"path": "bluetooth-serial-debug-esp32"
+		},
+		{
+			"name": "gpio-interrupt-esp32",
+			"path": "gpio-interrupt-esp32"
+		},
+		{
+			"name": "Multi-tasking",
+			"path": "Multi-tasking"
+		},
+		{
+			"name": "tcp-client",
+			"path": "tcp-client"
+		},
+		{
+			"name": "EEPROM",
+			"path": "EEPROM"
+		},
+		{
+			"name": "Button-bouncing",
+			"path": "Button-bouncing"
+		},
+		{
+			"name": "ble",
+			"path": "ble"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"hx711_adc.h": "c",
+			"wifi.h": "c",
+			"cpr-init.h": "c",
+			"*.tcc": "cpp",
+			"bluetoothserial.h": "c",
+			"array": "cpp",
+			"deque": "cpp",
+			"string": "cpp",
+			"unordered_map": "cpp",
+			"unordered_set": "cpp",
+			"vector": "cpp",
+			"string_view": "cpp",
+			"initializer_list": "cpp"
+		}
+	}
+}

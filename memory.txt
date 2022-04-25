@@ -1,0 +1,6 @@
+bos arduino projesi  flash : %15   | RAM : % 4
+EEProm projesi       flash : %16.6 | RAM : % 4.1
+Button bouncing      flash : %16   | RAM : % 4
+Tcp client           flash : %49.9 | RAM : % 11.6
+Multi task + TCP CLIENT + Button bouncing flash : % 50 | RAM : % 11.6
+Bos Bluetooth projesi flash : %71  | RAM  : % 9.5
