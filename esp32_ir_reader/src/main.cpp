@@ -12,7 +12,7 @@ decode_results results;
  
  
 void setup(){
-  // Serial Monitor @ 9600 baud
+  // Serial Monitor @ 115200 baud
   Serial.begin(115200);
   // Enable the IR Receiver
   irrecv.enableIRIn();
