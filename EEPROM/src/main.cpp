@@ -9,7 +9,7 @@ void setup()
   EEPROM.begin(50);
   Serial.begin(115200);
   // unsigned char val = 1;
-  char buff[] = "hello";
+  char buff[] = "helloaaaaa";
   writeStringToEEPROM(0, buff);
   EEPROM.commit();
 } 

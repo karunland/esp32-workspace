@@ -38,6 +38,10 @@
 		{
 			"name": "ble",
 			"path": "ble"
+		},
+		{
+			"name": "just-wifi-ble",
+			"path": "just-wifi-ble"
 		}
 	],
 	"settings": {
